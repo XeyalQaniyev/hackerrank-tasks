@@ -2,7 +2,7 @@ package org.example.tasks;
 
 import java.util.Scanner;
 
-public class Substing {
+public class Substring {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String S = in.next();

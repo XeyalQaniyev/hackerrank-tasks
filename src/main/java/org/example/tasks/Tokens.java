@@ -26,6 +26,7 @@ public class Tokens {
         }
         scan.close();
     }
+
     private static String removeLeadingNonLetters(String str) {
         int i;
         for (i = 0; i < str.length(); i++) {
